@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.pdf": "plaintext",
+        "unordered_map": "cpp"
+    }
+}
